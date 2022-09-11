@@ -1,4 +1,3 @@
 ## Monty Project
-## Authors
-* **Karen Kanana** - [karenkanana](https://github.com/KarenKanana)
-* **Njoroge Samuel** - [samnjor-alpha](https://github.com/Samnjor-alpha)
+## Author
+* **Edward Junior Agyemang-Prempeh** - [cappochinho](https://github.com/cappochinho)
